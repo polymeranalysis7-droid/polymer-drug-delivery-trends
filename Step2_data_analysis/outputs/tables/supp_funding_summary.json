@@ -1,0 +1,12 @@
+{
+  "summary": {
+    "n_all": 627,
+    "median_total_cost": 383828.0,
+    "IQR_total_cost": 261621.0,
+    "n_ic": 627,
+    "median_total_cost_ic": 382038.0,
+    "IQR_total_cost_ic": 263244.5
+  },
+  "figure": "outputs\\figures\\supp_funding_distribution_log.png",
+  "table": "outputs\\tables\\supp_funding_summary.csv"
+}

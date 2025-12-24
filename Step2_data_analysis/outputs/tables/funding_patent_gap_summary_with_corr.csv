@@ -1,0 +1,7 @@
+Polymer,total_cost_sum,total_cost_ic_sum,total_cost_median,total_cost_ic_median,n_projects,Policy,Pearson r,p-value,Lag1 r,Lag1 p-value
+PCL,22132347,22132347,444560.5,444560.5,56,both_positive,0.24,0.4853,0.45,0.1898
+PEG,57215912,57215912,341294.0,341294.0,150,both_positive,-0.53,0.0968,-0.31,0.3881
+PLA,9439975,9439975,380278.0,380278.0,26,both_positive,-0.17,0.6088,-0.09,0.8037
+PLGA,23629667,23629667,362250.0,362250.0,63,both_positive,0.27,0.4167,0.53,0.1162
+chitosan,39581733,39581733,367638.0,367638.0,103,both_positive,-0.36,0.2753,-0.12,0.7443
+hydrogel,94593428,93953428,397109.0,397109.0,229,both_positive,0.81,0.0025,0.76,0.0106

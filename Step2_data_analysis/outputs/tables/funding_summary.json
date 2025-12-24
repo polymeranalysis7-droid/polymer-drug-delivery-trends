@@ -1,0 +1,54 @@
+{
+  "n_projects": 627,
+  "paired_n": 627,
+  "summary": {
+    "total_cost": {
+      "count": 627.0,
+      "mean": 393290.37001594895,
+      "std": 193195.3252902447,
+      "min": 1.0,
+      "25%": 238210.0,
+      "50%": 383828.0,
+      "75%": 499831.0,
+      "max": 1380461.0
+    },
+    "total_cost_ic": {
+      "count": 627.0,
+      "mean": 392269.63636363635,
+      "std": 194180.48778273712,
+      "min": 1.0,
+      "25%": 236586.5,
+      "50%": 382038.0,
+      "75%": 499831.0,
+      "max": 1380461.0
+    },
+    "medians_IQR": {
+      "total_cost_median": 383828.0,
+      "total_cost_IQR": 261621.0,
+      "ic_median": 382038.0,
+      "ic_IQR": 263244.5,
+      "paired_n": 627
+    }
+  },
+  "wilcoxon": {
+    "stat": 0.0,
+    "p": 0.15729920705028502
+  },
+  "correlations": {
+    "pearson_r": 0.9956664733942595,
+    "pearson_p": 0.0,
+    "spearman_r": 0.9963792590886145,
+    "spearman_p": 0.0
+  },
+  "difference_metrics": {
+    "MAD_USD": 1020.7336523125997,
+    "MAD_pct": 0.4999805191396738,
+    "RMSE_USD": 18073.039831196962
+  },
+  "files": {
+    "linear_plot_png": "outputs\\figures\\funding_distribution.png",
+    "log_plot_png": "outputs\\figures\\funding_distribution_log.png",
+    "summary_table_csv": "outputs\\tables\\funding_summary_table.csv",
+    "pairwise_diffs_csv": "outputs\\tables\\funding_pairwise_diffs.csv"
+  }
+}

@@ -1,0 +1,7 @@
+Polymer,Total NIH Funding ($M),NIH Peak Year,NIH Peak Count,Patent Peak Year,Patent Peak Count,Translational Gap (yrs),Total Patents,Funding Efficiency (Patents per $M),Pearson r,p-value,Lag1 r,Lag1 p-value
+chitosan,39.58,2019,14,2024,185,5,1508,38.1,-0.37,0.2605,-0.11,0.7532
+hydrogel,94.59,2023,37,2024,384,1,2259,23.88,0.82,0.002,0.76,0.0107
+PCL,22.13,2025,11,2017,15,-8,121,5.47,0.16,0.6323,0.37,0.2889
+PEG,57.22,2015,17,2024,119,9,793,13.86,-0.53,0.0927,-0.32,0.3619
+PLA,9.44,2015,3,2021,20,6,161,17.06,-0.1,0.7666,0.08,0.8294
+PLGA,23.63,2020,11,2024,76,4,461,19.51,0.3,0.3771,0.55,0.103
